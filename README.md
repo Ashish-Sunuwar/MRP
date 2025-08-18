@@ -15,11 +15,11 @@ Hybrid + sentiment: Acc 0.68, Prec 0.63, Rec 0.91, F1 0.74, AUC 0.80
 Key finding: Engineered price features carry most of the signal; sentiment adds a small, regime-dependent lift.
 
 ## Repository structure
-project-root/
-│
-├── Experiments/                              # Contains all the codes for the experiments performed along with EDA and SHAP
-├── Preprocessing and Feature Engineering/    # Contains all the preprocessing and feature engineering codes for preparing the final dataset for experiments
-└── README.md                            # Project documentation
+Experiments/                              # Contains all the codes for the experiments performed along with EDA and SHAP
+
+Preprocessing and Feature Engineering/    # Contains all the preprocessing and feature engineering codes for preparing the final dataset for experiments
+
+README.md                            # Project documentation
 
 ## Setup
 ## Requirements
