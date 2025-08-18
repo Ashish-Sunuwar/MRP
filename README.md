@@ -23,16 +23,16 @@ README.md                            # Project documentation
 
 ## Setup
 ## Requirements
-Python 3.10+
-Recommended: NVIDIA GPU with CUDA 11+ (CPU works but slower)
-numpy>=1.24
-pandas>=2.0
-scikit-learn>=1.3
-tensorflow>=2.12
-lightgbm>=4.0
-matplotlib>=3.7
-seaborn>=0.12
-shap>=0.44
+- Python 3.10+
+- Recommended: NVIDIA GPU with CUDA 11+ (CPU works but slower)
+- numpy>=1.24
+- pandas>=2.0
+- scikit-learn>=1.3
+- tensorflow>=2.12
+- lightgbm>=4.0
+- matplotlib>=3.7
+- seaborn>=0.12
+- shap>=0.44
 
 ## Data	
 Link to the original dataset: https://huggingface.co/datasets/Zihan1004/FNSPID/tree/main
